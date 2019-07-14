@@ -1,0 +1,14 @@
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\bin\Debug\peoplePicture.exe.config
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\bin\Debug\peoplePicture.exe
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\bin\Debug\peoplePicture.pdb
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\bin\Debug\AipSdk.dll
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.csprojAssemblyReference.cache
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.Form1.resources
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.Properties.Resources.resources
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.csproj.GenerateResource.cache
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.csproj.CoreCompileInputs.cache
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.csproj.CopyComplete
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.exe
+C:\Users\sunwei\Desktop\PeopleDetect-master\peoplePicture\obj\Debug\peoplePicture.pdb
